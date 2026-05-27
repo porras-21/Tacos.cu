@@ -1,2 +1,2 @@
-# Tacos.cu
+# Tacos
 Tacos sabrosos
